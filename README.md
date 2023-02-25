@@ -26,6 +26,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 3. Pycharm[1]
 4. LEAN[1]
 5. Docker-Compose[1]
+6. Flask[1]
 
 #### Things we want to know next**
 1.  Reactjs [1]
