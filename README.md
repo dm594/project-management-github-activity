@@ -29,7 +29,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 6. Flask[1]
 
 #### Things we want to know next**
-1.  Reactjs [1]
+1.  Reactjs [2]
 2.  APIs[1]
 3.  Vuejs[2]
 4. RESTful API[1]
