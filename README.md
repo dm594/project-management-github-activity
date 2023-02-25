@@ -13,17 +13,24 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 
 ### Your list should look like this:
 #### Things we understand**
-1.  Docker[1]
-2.  OOPs[1] 
-3.  Pycharm[1]
+1.  Pull requests[1]
+2.  Create branches[1] 
+3.  GitHub collaboration[1]
+4.  Docker[1]
+5.  OOPs[1]
+6.  Pycharm[1]
+
 #### Things we don't understand
-1. LEAN[1]
-2. Docker-Compose[1]
-3. GIT status[1]
+1. GitHub[1]
+2. Node js[1]
+3. Pycharm[1]
+4. LEAN[1]
+5. Docker-Compose[1]
+
 #### Things we want to know next**
-1.  Elastic Search Indexing [1]
-2.  Cloud deployment with Kubernetes[2]
-3.  Teraform[1]
+1.  Reactjs [1]
+2.  APIs[1]
+3.  Vuejs[1]
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
