@@ -16,6 +16,9 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 1.  Pull requests[1]
 2.  Create branches[1] 
 3.  GitHub collaboration[1]
+4.  Docker[1]
+5.  Linux Directory listing[1] 
+6.  Docker Installation[1]
 #### Things we don't understand
 1. GitHub[1]
 2. Node js[1]
