@@ -18,7 +18,8 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 3.  GitHub collaboration[1]
 4.  Docker[1]
 5.  OOPs[1]
-6.  Docker Installation[1]
+6.  Pycharm[1]
+
 #### Things we don't understand
 1. GitHub[1]
 2. Node js[1]
