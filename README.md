@@ -17,7 +17,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 2.  Create branches[1] 
 3.  GitHub collaboration[1]
 4.  Docker[1]
-5.  Linux Directory listing[1] 
+5.  OOPs[1]
 6.  Docker Installation[1]
 #### Things we don't understand
 1. GitHub[1]
