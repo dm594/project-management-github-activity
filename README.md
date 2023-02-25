@@ -19,7 +19,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 #### Things we don't understand
 1. GitHub[1]
 2. Node js[1]
-3. Pycharm[3]
+3. Pycharm[1]
 #### Things we want to know next**
 1.  Reactjs [1]
 2.  APIs[1]
