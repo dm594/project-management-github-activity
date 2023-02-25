@@ -14,15 +14,15 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 ### Your list should look like this:
 #### Things we understand**
 1.  Pull requests[1]
-2.  Create branches[2] 
+2.  Create branches[1] 
 3.  GitHub collaboration[1]
 #### Things we don't understand
 1. GitHub[1]
-2. Node js[2]
+2. Node js[1]
 3. Pycharm[3]
 #### Things we want to know next**
 1.  Reactjs [1]
-2.  APIs[2]
+2.  APIs[1]
 3.  Vuejs[1]
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
